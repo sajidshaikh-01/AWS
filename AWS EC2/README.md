@@ -1,10 +1,5 @@
 # AWS EC2 – Complete README (Instances, Types, Templates, Pricing Models, Security, Placement Groups + Interview Q&A)
-
-This README covers **EC2 fundamentals to advanced concepts**, along with interview questions and answers.
-Perfect for GitHub documentation and DevOps study.
-
 ---
-
 # 🚀 **What is Amazon EC2?**
 
 Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances) in AWS.
