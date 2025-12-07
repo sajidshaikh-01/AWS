@@ -1,9 +1,5 @@
 # AWS S3 – Complete Deep Dive README (Buckets, Object Properties, Versioning, Static Hosting, Transfer Acceleration, Replication)
-
-This README provides a **fully detailed explanation** of Amazon S3 concepts with production-level understanding and interview-ready depth.
-
 ---
-
 # ☁️ **What is Amazon S3?**
 
 Amazon S3 (Simple Storage Service) is an **object storage service** designed for:
