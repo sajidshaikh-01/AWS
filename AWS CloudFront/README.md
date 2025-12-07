@@ -1,4 +1,4 @@
-# AWS CloudFront – Complete Deep Dive README (Distributions, Invalidation, Security, Routing, Geo-Restrictions, Error Handling)
+# AWS CloudFront – (Distributions, Invalidation, Security, Routing, Geo-Restrictions, Error Handling)
 ---
 # 🌐 1. What is Amazon CloudFront?
 
