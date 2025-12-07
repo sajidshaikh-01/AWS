@@ -1,9 +1,5 @@
-# AWS VPC – Complete Networking README (VPC, Subnets, Routing, IGW, NAT, Peering, NACL, Transit Gateway, Endpoints, VPN + 50 Interview Questions)
-
-This README provides a full understanding of **AWS VPC and networking**, including core components and scenario-based interview questions.
-
+# AWS VPC – Complete Networking README (VPC, Subnets, Routing, IGW, NAT, Peering, NACL, Transit Gateway, Endpoints, VPN 
 ---
-
 # 🌐 **1. What is a VPC (Virtual Private Cloud)?**
 
 A VPC is a logically isolated virtual network in AWS where you can launch AWS resources like EC2, RDS, EKS, etc.
