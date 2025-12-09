@@ -1,7 +1,5 @@
 # AWS Lambda – Complete README
 
-This README includes detailed explanations of AWS Lambda concepts, configurations, integrations, concurrency models, networking, security, versioning, and interview questions.
-
 Topics Covered:
 
 * What is AWS Lambda
