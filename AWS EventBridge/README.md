@@ -1,9 +1,4 @@
 # Amazon EventBridge – Complete Deep Dive README
-
-This README explains Amazon EventBridge in detail, including rules, buses, event patterns, targets, scheduling, integrations, pipes, schema registry, retries, failures, real-time scenarios, and interview questions.
-
----
-
 # 📘 1. What is Amazon EventBridge?
 
 Amazon EventBridge is a **serverless event bus** used for building event-driven applications. It routes events from AWS services, SaaS applications, and custom applications to targets like:
