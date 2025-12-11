@@ -1,4 +1,4 @@
-# 🧪 9. Real-Time Scenarios
+# 🧪  Real-Time Scenarios
 
 ## **Scenario 1: Secret Leaked in GitHub**
 
@@ -40,7 +40,7 @@ Use ECS Task Definition secrets mapping.
 
 ---
 
-# 🎤 10. Interview Questions & Answers
+# 🎤  Interview Questions & Answers
 
 ### **1. What is the difference between Secrets Manager and Parameter Store?**
 
