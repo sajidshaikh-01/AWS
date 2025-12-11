@@ -1,4 +1,4 @@
-# 🗂 11. CloudWatch Interview Questions & Answers
+# 🗂 . CloudWatch Interview Questions & Answers
 
 ### **1. What is CloudWatch?**
 
