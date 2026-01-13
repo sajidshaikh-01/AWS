@@ -1,6 +1,5 @@
 AWS README
 
-AWS
 
 AWS
 
