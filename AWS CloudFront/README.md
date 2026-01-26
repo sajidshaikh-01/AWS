@@ -242,7 +242,7 @@ You cannot delete a distribution until it is disabled.
 1. CloudFront Console → Distribution
 2. Choose **Disable**
 3. Wait for status → **Disabled** (takes a few minutes)
-4. Now you can delete it
+4. Now you can delete i
 
 ---
 
