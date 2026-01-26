@@ -244,8 +244,6 @@ You cannot delete a distribution until it is disabled.
 3. Wait for status → **Disabled** (takes a few minutes)
 4. Now you can delete i
 
--
-
 
 
 
