@@ -26,7 +26,7 @@ It acts as a **front door** for serverless & microservice applications.
 * **Best for production enterprise workloads**
 
 ## **2. HTTP API (Modern – Lightweight & Cheaper)**
-
+g
 * Lower latency
 * Simple routing
 * JWT authorizers
