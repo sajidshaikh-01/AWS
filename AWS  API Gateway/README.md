@@ -331,6 +331,5 @@ Example domain:
 
 ```
 https://api.mycompany.com/v1/users
-```
 
 
